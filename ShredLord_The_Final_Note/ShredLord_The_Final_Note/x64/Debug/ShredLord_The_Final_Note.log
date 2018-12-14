@@ -1,0 +1,62 @@
+﻿  Levels.cpp
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(50): warning C4267: '=': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(95): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(98): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(106): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(109): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(112): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(112): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(115): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(115): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\year-3-team-project-team-5\shredlord_the_final_note\shredlord_the_final_note\levels.cpp(118): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ShredLord_The_Final_Note.vcxproj -> C:\GP\year-3-team-project-team-5\ShredLord_The_Final_Note\x64\Debug\ShredLord_The_Final_Note.exe
